@@ -46,11 +46,11 @@
 
 | 파일명 | 내용 | 출처 |
 |---|---|---|
-| 연령별_인구.csv | 행정동별 연령별 인구 | 서울 열린데이터광장 |
-| 행정동별_장애인등록.csv | 행정동별 등록장애인 | 서울 열린데이터광장 |
-| 노선별_저상버스.csv | 노선별 인가대수·저상버스 대수 | 서울 열린데이터광장 |
-| 서울시_정류장마스터_정보.csv | 버스정류장 위치(위경도) | 서울 열린데이터광장 |
-| 노선별_정류소.csv | 노선·정류장별 승하차 인원 | 서울 열린데이터광장 |
+| 연령별_인구.csv | 행정동별 연령별 인구 | https://data.seoul.go.kr/dataList/DT201003A010006/S/2/datasetView.do (서울 열린데이터광장)|
+| 행정동별_장애인등록.csv | 행정동별 등록장애인 | https://data.seoul.go.kr/dataList/DT201004F040005/S/2/datasetView.do (서울 열린데이터광장) |
+| 노선별_저상버스.csv | 노선별 인가대수·저상버스 대수 | https://data.seoul.go.kr/dataList/OA-22229/F/1/datasetView.do (서울 열린데이터광장) |
+| 서울시_정류장마스터_정보.csv | 버스정류장 위치(위경도) | https://data.seoul.go.kr/dataList/OA-21231/A/1/datasetView.do (서울 열린데이터광장) |
+| 노선별_정류소.csv | 노선·정류장별 승하차 인원 | https://data.seoul.go.kr/dataList/OA-12912/S/1/datasetView.do (서울 열린데이터광장) |
 | 행정동 경계 (geojson) | 서울시 행정동 경계 | [vuski/admdongkor](https://github.com/vuski/admdongkor) (CC BY 4.0, 원자료: 통계청 SGIS) |
 
 ## 한계
